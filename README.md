@@ -2,7 +2,7 @@
 
 Welcome to my GitHub repo. Feel free to discover my projects and discuss them with me.
 
-A few facts about me:
+## A few facts about me
 
 - :v: My name is Daniel Kampert but you can call me Kampi
   
