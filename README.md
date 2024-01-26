@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub repo. Feel free to discover my projects and discuss them with me.
+Welcome to my GitHub repo. Feel free to discover my projects and discuss them with me. :raised_hands:
 
 ## A few facts about me
 
@@ -17,8 +17,6 @@ Welcome to my GitHub repo. Feel free to discover my projects and discuss them wi
 - :smiley_cat: We are subtenants of our cats
 
 - :computer: I spend a lot of time on my PC, doing electronics stuff or playing video games
-
-Stay healty and have good times :raised_hands:
 
 ## Contact
  - [Website](https://www.kampis-elektroecke.de/)
