@@ -8,7 +8,7 @@ Welcome to my GitHub repo. Feel free to discover my projects and discuss them wi
   
 - :thumbsup: My pronouns are he/him
 
-- :blue_book: I speak German and English
+- :blue_book: I´m a German speaker, but I also speak English
 
 - :bulb: My hobby becomes my work and my work becomes my passion
 
