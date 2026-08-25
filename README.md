@@ -19,6 +19,7 @@ Welcome to my GitHub repo. Feel free to discover my projects and discuss them wi
 - :computer: I spend a lot of time on my PC, doing electronics stuff or playing video games
 
 ## Contact
+ - [Portfolio](https://daniel-kampert.de/)
  - [Website](https://www.kampis-elektroecke.de/)
  - [LinkedIn](https://www.linkedin.com/in/daniel-kampert/)
  - [Mail](mailto:kontakt@daniel-kampert.de)
